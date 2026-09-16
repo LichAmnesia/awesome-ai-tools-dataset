@@ -3387,3 +3387,4 @@
 | Zust QR | ![](https://www.futurepedia.io/s3/optimized-image/ByE9bOm8sgSPxvIIouMtUQ?format=auto&width=256) | 40 | [website](https://qr.zust.ai/) | Create stunning, AI-generated artistic QR codes effortlessly. |
 | Zylon | ![](https://www.futurepedia.io/s3/optimized-image/ipxM60WaugZW27ZNjecJMZ?format=auto&width=256) | 0 | [website](https://www.zylon.ai) | AI-driven tool that autonomously enhances business productivity and collaboration. |
 | Zyro | ![](https://www.futurepedia.io/s3/optimized-image/i1TvIyRSpJWREzu1TG7vtX?format=auto&width=256) | 10 | [website](https://zyro.com/) | Streamline website creation with user-friendly design and AI integration, ideal for small businesses and startups. |
+| AI Tools Radar |  | 0 | [website](https://aitoolsradar.com/) | AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news and newsletter issues. |
