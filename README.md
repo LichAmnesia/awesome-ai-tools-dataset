@@ -25,3 +25,4 @@ This repository contains a collection of over 3,000 well-structured AI tools, wh
 
 
 Please see data.md for all data.
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
